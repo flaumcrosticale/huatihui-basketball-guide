@@ -1,2 +1,14 @@
 # huatihui-basketball-guide
-HTML page archive and documentation
+
+HTML 文件托管仓库
+
+该目录保存页面发布文件，便于通过仓库历史查看变化。
+
+## 内容保存
+
+- 根目录保存页面文件
+- 提交历史记录文件变化
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
